@@ -1,0 +1,60 @@
+- name: Oxalis acetosella
+  f: 3
+  r: 2
+  fv: 1
+  rv: 1
+  a: 3
+- name: Viola sylvestris
+  f: 3
+  r: 0
+  fv: 2
+  rv: 0
+  a: 1
+- name: Polygonatum multiflorum
+  f: 3
+  r: 4
+  fv: 1
+  rv: 1
+  a: 2
+- name: Galium odoratum
+  f: 3
+  r: 3
+  fv: 1
+  rv: 2
+  a: 4
+- name: Anemone nemorosa
+  f: 3
+  r: 0
+  fv: 2
+  rv: 0
+  a: 1
+- name: Lamium montanum 
+  f: 3.5
+  r: 3
+  fv: 1
+  rv: 2
+  a: 3
+- name: Milium effusum
+  f: 3
+  r: 2
+  fv: 1
+  rv: 2
+  a: 1
+- name: Galeopsis tetrahit
+  f: 3
+  r: 3
+  fv: 1
+  rv: 2
+  a: 1
+- name: Arum maculatum
+  f: 3
+  r: 4
+  fv: 1
+  rv: 1
+  a: 1
+- name: Carex brizoides
+  f: 3.5
+  r: 2
+  fv: 1
+  rv: 2
+  a: 5

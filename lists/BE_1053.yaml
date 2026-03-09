@@ -1,0 +1,54 @@
+- name: Dryopteris dilatata
+  f: 3.5
+  r: 2
+  fv: 1
+  rv: 1
+  a: 1
+- name: Galium odoratum
+  f: 3
+  r: 3
+  fv: 1
+  rv: 2
+  a: 4
+- name: Lamium montanum
+  f: 3.5
+  r: 3
+  fv: 1
+  rv: 2
+  a: 4
+- name: Paris quadrifolia
+  f: 3.5
+  r: 4
+  fv: 1
+  rv: 1
+  a: 3
+- name: Primula elatior
+  f: 3.5
+  r: 4
+  fv: 2
+  rv: 1
+  a: 2
+- name: Carex sylvatica
+  f: 3.5
+  r: 3
+  fv: 1
+  rv: 2
+  a: 1
+- name: Pulmonaria obscura
+  f: 3.5
+  r: 4
+  fv: 1
+  rv: 2
+  a: 4
+- name: Glechoma hederacea
+  f: 3.5
+  r: 4
+  fv: 1
+  rv: 2
+  a: 1
+- name: Circaea lutetiana
+  f: 3.5
+  r: 4
+  fv: 1
+  rv: 2
+  a: 4

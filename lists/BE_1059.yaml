@@ -1,0 +1,109 @@
+- name: Phyteuma spicatum
+  f: 3
+  r: 3
+  fv: 1
+  rv: 1
+  a: 3
+- name: Viola reichenbachiana
+  f: 3
+  r: 3
+  fv: 1
+  rv: 1
+  a: 3
+- name: Carex digitata
+  f: 2.5
+  r: 3
+  fv: 1
+  rv: 2
+  a: 1
+- name: Polygonatum multiflorum
+  f: 3
+  r: 4
+  fv: 1
+  rv: 1
+  a: 3
+- name: Galium odoratum
+  f: 3
+  r: 3
+  fv: 1
+  rv: 2
+  a: 4
+- name: Anemone nemorosa
+  f: 3
+  r: 0
+  fv: 2
+  rv: 0
+  a: 4
+- name: Lamium montanum
+  f: 3.5
+  r: 3
+  fv: 1
+  rv: 2
+  a: 3
+- name: Milium effusum 
+  f: 3
+  r: 2
+  fv: 1
+  rv: 2
+  a: 2
+- name: Carex sylvatica
+  f: 3.5
+  r: 3
+  fv: 1
+  rv: 2
+  a: 2
+- name: Geum urbanum
+  f: 3.5
+  r: 3
+  fv: 1
+  rv: 2
+  a: 1
+- name: Pulmonaria officinalis
+  f: 3.5
+  r: 4
+  fv: 1
+  rv: 2
+  a: 1
+- name: Pulmonaria obscura
+  f: 3.5
+  r: 4
+  fv: 1
+  rv: 2
+  a: 1
+- name: Arum maculatum
+  f: 3.5
+  r: 4
+  fv: 1
+  rv: 1
+  a: 3
+# Desc caes -> nicht gefunden
+- name: Lathyrus vernus
+  f: 2.5
+  r: 4
+  fv: 1
+  rv: 1
+  a: 3
+- name: Euphorbia dulcis
+  f: 3
+  r: 4
+  fv: 1
+  rv: 2
+  a: 1
+- name: Melica nutans
+  f: 2.5
+  r: 4
+  fv: 1
+  rv: 2
+  a: 1
+- name: Convallaria majalis
+  f: 2.5
+  r: 3
+  fv: 1
+  rv: 2
+  a: 3
+- name: Potentilla sterilis
+  f: 3
+  r: 3
+  fv: 1
+  rv: 1
+  a: 2

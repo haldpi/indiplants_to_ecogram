@@ -1,0 +1,152 @@
+- name: Luzula luzuloides
+  f: 2.5
+  r: 2
+  fv: 1
+  rv: 2
+  a: 4
+- name: Maianthemum bifolium
+  f: 3
+  r: 2
+  fv: 1
+  rv: 1
+  a: 2
+- name: Luzula pilosa
+  f: 3
+  r: 2
+  fv: 1
+  rv: 1
+  a: 1
+- name: Athyrium filix-femina
+  f: 3
+  r: 2
+  fv: 1
+  rv: 2
+  a: 3
+- name: Oxalis acetosella
+  f: 3
+  r: 2
+  fv: 1
+  rv: 2
+  a: 2
+- name: Solidago virgaurea
+  f: 2.5
+  r: 3
+  fv: 1
+  rv: 2
+  a: 1
+# hier silv -> nicht gefunden
+- name: Viola reichenbachiana
+  f: 3
+  r: 3
+  fv: 1
+  rv: 1
+  a: 1
+- name: Carex digitata
+  f: 2.5
+  r: 3
+  fv: 1
+  rv: 2
+  a: 1
+- name: Fragaria vesca
+  f: 3
+  r: 3
+  fv: 1
+  rv: 1
+  a: 2
+- name: Polygonatum multiflorum
+  f: 3
+  r: 4
+  fv: 1
+  rv: 1
+  a: 2
+- name: Galium odoratum
+  f: 3
+  r: 3
+  fv: 1
+  rv: 2
+  a: 4
+- name: Anemone nemorosa
+  f: 3
+  r: 0
+  fv: 2
+  rv: 0
+  a: 1
+- name: Mycelis muralis
+  f: 3.5
+  r: 4
+  fv: 1
+  rv: 2
+  a: 1
+- name: Poa nemoralis
+  f: 2.5
+  r: 3
+  fv: 2
+  rv: 2
+  a: 2
+- name: Vicia sepium
+  f: 3
+  r: 3
+  fv: 1
+  rv: 1
+  a: 1
+- name: Epilobium montanum
+  f: 3
+  r: 4
+  fv: 1
+  rv: 2
+  a: 1
+- name: Veronica chamaedrys
+  f: 2.5
+  r: 4
+  fv: 1
+  rv: 2
+  a: 3
+- name: Milium effusum
+  f: 3
+  r: 2
+  fv: 1
+  rv: 2
+  a: 2
+- name: Carex sylvatica
+  f: 3.5
+  r: 3
+  fv: 1
+  rv: 2
+  a: 3
+# Desc caes -> nicht gefunden
+- name: Festuca gigantea
+  f: 4
+  r: 3
+  fv: 1
+  rv: 2
+  a: 1
+- name: Lathyrus vernus
+  f: 2.5
+  r: 4
+  fv: 1
+  rv: 1
+  a: 3
+- name: Neottia nidus-avis
+  f: 3
+  r: 4
+  fv: 1
+  rv: 1
+  a: 1
+- name: Convallaria majalis
+  f: 2.5
+  r: 3
+  fv: 1
+  rv: 2
+  a: 4
+- name: Taraxacum officinale aggr.
+  f: 0
+  r: 0
+  fv: 0
+  rv: 0
+  a: 2
+- name: Eupatorium cannabium
+  f: 4
+  r: 4
+  fv: 1
+  rv: 1
+  a: 2
